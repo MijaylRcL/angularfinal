@@ -1,0 +1,28 @@
+footer{
+    margin-top: 215px;
+    background-color: #673ab7;
+    height: 100px;
+    color: #ffff;
+    display: flex;
+    gap: 5px;
+    justify-content: space-between;
+    padding: 35px;
+}
+
+h5{
+    text-size-adjust: 15px;
+}
+
+.contacto{
+    text-align:left;
+}
+
+.integrantes {
+    text-align:left;
+    list-style:inside;
+}
+
+.link {
+    text-align:left;
+    list-style:inside;
+}

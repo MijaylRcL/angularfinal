@@ -1,0 +1,28 @@
+table {
+    width: 100%;
+    margin-top: 15px;
+  }
+
+th {
+  width: 20%;
+  color: rgb(118, 27, 192);
+}
+
+.icono {
+  cursor: pointer;
+}
+
+.mat-mdc-form-field {
+  font-size: 14px;
+  width: 100%;
+  margin-top: 15px;
+}
+
+.body {
+  margin-top: 25px;
+  display: flex;
+  justify-content: center;
+  height: 15%;
+  align-items: center;
+  text-align: center;
+}
